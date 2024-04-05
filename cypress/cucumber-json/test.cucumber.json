@@ -1,0 +1,32 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Test",
+    "line": 1,
+    "id": "test",
+    "tags": [],
+    "uri": "test.feature",
+    "elements": [
+      {
+        "id": "test;test",
+        "keyword": "Scenario",
+        "line": 2,
+        "name": "Test",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "Login to orange HRM with username \"Admin\" and paswword \"admin123\"",
+            "result": {
+              "status": "passed",
+              "duration": 2180000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
